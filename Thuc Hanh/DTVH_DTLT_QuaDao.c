@@ -1,3 +1,6 @@
+/*Có n hòn đảo và m cây cầu.Mỗi cây cầu bắt qua 2 hòn đảo.
+Một hôm chúa đảo tự hỏi là với các cây cầu hiện tại thì đứng ở một hòn đảo bất kỳ có thể nào đi đến được tất cả các hòn đảo khác hay không.*/
+
 #include<stdio.h>
 #define MAX_Vertices 20
 #define MAX_Length 20
