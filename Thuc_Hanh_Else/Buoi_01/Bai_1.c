@@ -1,15 +1,16 @@
-/*Cho c?u tr�c d? li?u �? th? ��?c khai b�o s? d?ng ma tr?n �?nh - cung nh� sau:
+/*Cho cấu trúc dữ liệu đồ thị được khai báo sử dụng ma trận đỉnh - cung như sau:
 
 typedef struct {
     int A[100][500];
     int n, m;
 } Graph;
-Gi? s? �? th? v� h�?ng, kh�ng ch?a khuy�n.
+Giả sử đồ thị vô hướng, không chứa khuyên.
 
-Vi?t h�m add_edge(Graph* G, int e, int x, int y) �? th�m cung e = (x, y) v�o �? th? G.
+Viết hàm add_edge(Graph* G, int e, int x, int y) để thêm cung e = (x, y) vào đồ thị G.
 
 void add_edge(Graph* G, int e, int x, int y) {
 }*/
+
 
 void add_edge(Graph *G, int e, int x, int y){
     G->A[x][e]=1;
