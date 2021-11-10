@@ -66,7 +66,7 @@ cạnh
 ### Buổi 2
 [Tài liệu TH](https://github.com/BuiTranNgocLy/CT175_LTDT_code_C/blob/main/Tai_Lieu_TH/Session2_T%C3%ADnh_Li%C3%AAn_Th%C3%B4ng.pdf)
 - Bài 1 - Duyệt đồ thị
-  - 1.1 Duyệt đồ thị theo chiều rộng (Queue)
+  - [1.1 Duyệt đồ thị theo chiều rộng (Queue)](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_02/Bai_1_1.c)
   - 1.2 Duyệt đò thị theo chiều sâu (Stack)
   - 1.3 Duyệt đò thị theo chiều sâu (Đệ Quy)  
 - Bài 2 - Duyệt đồ thị & Dựng cây duyệt đồ thị
