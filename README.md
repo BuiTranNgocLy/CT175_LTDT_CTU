@@ -50,7 +50,7 @@ cạnh
 - `Thuật toán Ford-Fulkerson`
 
 ## Thực hành
-### cấu trúc quan trọng khi thực hành
+###CCấu trúc quan trọng khi thực hành
 - [Danh sách - List]()
 - [Hàng đợi - Queue]()
 - [Ngăn xếp - Stack]()
@@ -63,7 +63,7 @@ cạnh
 - [Bài 5 - Danh sách cung]()
 - [Bài 6 - Đọc đồ thị từ tập tin]()
 ### Buổi 2
-[Tài liệu TH]()
+[Tài liệu TH](https://github.com/BuiTranNgocLy/CT175_LTDT_code_C/blob/main/Tai_Lieu_TH/Session2_T%C3%ADnh_Li%C3%AAn_Th%C3%B4ng.pdf)
 - Bài 1 - Duyệt đồ thị
   - 1.1 Duyệt đồ thị theo chiều rộng (Queue)
   - 1.2 Duyệt đò thị theo chiều sâu (Stack)
