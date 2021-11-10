@@ -56,7 +56,7 @@ cạnh
 - [Ngăn xếp - Stack]()
 ### Buổi 1
 [Tài liệu TH](https://github.com/BuiTranNgocLy/CT175_LTDT_code_C/blob/main/Tai_Lieu_TH/Session1_Bi%E1%BB%83u_Di%E1%BB%85n_Graph.pdf)
-- [Bài 1 - Ma trận đỉnh cung(add_edge)]()
+- [Bài 1 - Ma trận đỉnh cung(add_edge)](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_1.c)
 - [Bài 2 - Ma trận đỉnh - cung (neighbors)]()
 - [Bài 3 - Ma trận đỉnh - đỉnh (degree)]()
 - [Bài 4 - Bậc lớn nhất]()
