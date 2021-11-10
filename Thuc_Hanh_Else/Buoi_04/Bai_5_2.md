@@ -1,3 +1,28 @@
+Việc thực hiện một dự án phát triển phần mềm được bố trí thành các công việc và thời gian thực hiện như sau:
+![image](https://user-images.githubusercontent.com/88178841/141130992-9d7a3c7e-c5e4-4344-b1d7-5cf75a019b9b.png)
+
+- Biết rằng dựa vào bảng công việc người ta có thể xác định thời điểm sớm nhất và trể nhất để bắt đầu cho mỗi công việc mà không ảnh hưởng đến tiến độ của dự án phần mềm. Trong danh sách các công việc thì Trưởng dự án cực kỳ quan tâm đến các công việc then chốt. Công việc then chốt là những công việc có thời gian sớm nhất và thời gian trể nhất bắt đầu công việc bằng nhau. Hãy viết chương trình cho trưởng dự án biết những công việc nào là công việc then chốt?
+
+Để đơn giản trong cài đặt, ta đánh số lại các công việc theo thứ tự 1, 2, 3 thay vì A, B, C và lưu vào tập tin theo định dạng như sau:
+![image](https://user-images.githubusercontent.com/88178841/141131119-f384695a-aec4-4ef9-a45f-b84f7f5abc46.png)
+
+Đầu vào:
+
+![image](https://user-images.githubusercontent.com/88178841/141131224-3cb6f81e-9fe6-4bcc-b470-cc85f2ce1a22.png)
+
+Dòng đầu tiên là số công việc (12), các dòng tiếp theo mỗi dòng mô tả một công việc bao gồm d[u]: thời gian hoàn thành công việc u và danh sách các công việc trước đó của u. Danh sách được kết thúc bằng số 0. Ví dụ: công việc 1 (công việc A) có d[1] = 14 và danh sách các công việc trước đó rỗng.
+Công việc 2 (công việc B) có d[2] = 12 và danh sách công việc trước đó là {1}.
+
+Đầu ra:
+Danh sách các công việc then chốt. Mỗi công việc trên một dòng.
+
+Chú ý đọc dữ liệu:
+
+![image](https://user-images.githubusercontent.com/88178841/141131455-80e9dd5a-1d1a-4f5b-a670-3b44effd6bd3.png)
+
+![image](https://user-images.githubusercontent.com/88178841/141131554-62a1c303-4e89-4a5b-91ce-76632f383d0d.png)
+
+
 CODE
 ````
 #include <stdio.h>
