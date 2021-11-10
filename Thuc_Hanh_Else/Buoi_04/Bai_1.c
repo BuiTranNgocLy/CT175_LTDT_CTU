@@ -29,9 +29,24 @@ Có thể sử dụng đoạn chương trình đọc dữ liệu mẫu sau đây
 For example:
 
 Input	Result
-3 2  	
-1 3
-3 2
+3 2  	0
+1 3	2
+3 2	1
+
+7 13    1
+1 2     2
+1 3     4
+1 4     6
+2 3     5
+2 6     3
+3 7     7
+4 5
+5 3
+5 7
+6 7
+2 4
+6 5
+4 6
 */
 #include <stdio.h>
 #define MAX_Vertices 100
