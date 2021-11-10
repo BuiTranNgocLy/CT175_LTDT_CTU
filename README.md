@@ -50,7 +50,7 @@ cạnh
 - `Thuật toán Ford-Fulkerson`
 
 ## Thực hành
-###CCấu trúc quan trọng khi thực hành
+### Cấu trúc quan trọng khi thực hành
 - [Danh sách - List]()
 - [Hàng đợi - Queue]()
 - [Ngăn xếp - Stack]()
@@ -82,7 +82,7 @@ cạnh
   - 8.2 - Đếm số bộ phận liên thông mạnh
 - Bài 9 - Come and Go
 ### Buổi 3
-[Tài liệu TH]()
+[Tài liệu TH](https://github.com/BuiTranNgocLy/CT175_LTDT_code_C/blob/main/Tai_Lieu_TH/Session3_%C4%90%C6%B0%E1%BB%9Dng_%C4%90i_Ng%E1%BA%AFn_Nh%E1%BA%A5t.pdf)
 - Bài 1 - Tìm đường đi ngắn nhất
   - 1.1 - Tìm đường đi ngắn nhất - đơn đồ thị có hướng
   - 1.2 - Tìm đường đi ngắn nhất - đơn đồ thị vô hướng
