@@ -97,7 +97,7 @@ cạnh
 - Bài 8 - Floyd - Warshall
 - Bài 9 - Tìm số đường đi ngắn nhất (nâng cao)
 ### Buổi 4
-[Tài liệu TH]()
+[Tài liệu TH](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_TH/Session4_X%E1%BA%BFp%20h%E1%BA%A1ng%20%C4%91%C3%B2%20th%E1%BB%8B.pdf)
 - Bài 1- Xếp hạng đồ thị
 - Bài 2 - Cân đá
 - Bài 3 - Chia kẹo
