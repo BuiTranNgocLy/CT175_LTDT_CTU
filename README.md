@@ -50,26 +50,42 @@ cạnh
 - `Thuật toán Ford-Fulkerson`
 
 ## Thực hành
+### cấu trúc quan trọng khi thực hành
+- [Danh sách - List]()
+- [Hàng đợi - Queue]()
+- [Ngăn xếp - Stack]()
 ### Buổi 1
-- Bài 1: Ma trận đỉnh cung(add_edge)
-- Bài 2 - Ma trận đỉnh - cung (neighbors)
-- Bài 3 - Ma trận đỉnh - đỉnh (degree)
-- Bài 4 - Bậc lớn nhất
-- Bài 5 - Danh sách cung
-- Bài 6 - Đọc đồ thị từ tập tin
+- [Bài 1 - Ma trận đỉnh cung(add_edge)]()
+- [Bài 2 - Ma trận đỉnh - cung (neighbors)]()
+- [Bài 3 - Ma trận đỉnh - đỉnh (degree)]()
+- [Bài 4 - Bậc lớn nhất]()
+- [Bài 5 - Danh sách cung]()
+- [Bài 6 - Đọc đồ thị từ tập tin]()
 ### Buổi 2
 - Bài 1 - Duyệt đồ thị
+  - 1.1 Duyệt đồ thị theo chiều rộng (Queue)
+  - 1.2 Duyệt đò thị theo chiều sâu (Stack)
+  - 1.3 Duyệt đò thị theo chiều sâu (Đệ Quy)  
 - Bài 2 - Duyệt đồ thị & Dựng cây duyệt đồ thị
+  - 2.1 - Duyệt & dựng đồ thị theo chiều rộng(QUEUE)
+  - 2.2 - Duyệt & dựng đồ thị theo chiều sâu(STACK)
+  - 2.3 - Duyệt & dựng đồ thị theo chiều sâu(Đệ Quy)
 - Bài 3 - Đồ thị liên thông - Qua đảo
 - Bài 4 - Tôn Ngộ Không
 - Bài 5 - Kiểm tra chu trình - đồ thị vô hướng
 - Bài 6 - Thuyền trưởng Haddock
 - Bài 7- Phân chia đội bóng
 - Bài 8 - Kiểm tra tính liên thông mạnh - đếm số BPLT mạnh
+  - 8.1 - Kiểm tra tính liên thông mạnh
+  - 8.2 - Đếm số bộ phận liên thông mạnh
 - Bài 9 - Come and Go
 ### Buổi 3
 - Bài 1 - Tìm đường đi ngắn nhất
+  - 1.1 - Tìm đường đi ngắn nhất - đơn đồ thị có hướng
+  - 1.2 - Tìm đường đi ngắn nhất - đơn đồ thị vô hướng
 - Bài 2 - Tìm đường đi ngắn nhất (Check được)
+  - 2.1 - Kiểm tra chu trình âm - đơn đồ thị có hướng
+  - 2.2 - Ứng dụng đường đi ngắn nhất - Ngưu Lang Chức Nữ
 - Bài 3 - Kiểm tra chu trình âm và ứng dụng đường đi ngắn nhất
 - Bài 4 - Ứng dụng đường đi ngắn nhất
 - Bài 5 - Mê cung số (Number Maze)
@@ -83,6 +99,8 @@ cạnh
 - Bài 3 - Chia kẹo
 - Bài 4 - Tổ chức thi công - Dự án xây nhà
 - Bài 5 - Tổ chức thi công - Dự án phần mềm
+  - 5.1 - Tổ chức thi công - Dự án phần mềm 1
+  - 5.2 - Tổ chức thi công - Dự án phần mềm 2
 ### Buổi 5
 - Bài 5.1. Tìm cây khung bằng giải thuật Kruskal
 - Bài 5.2. tìm cây khung có trọng lượng nhỏ nhất bằng giải thuật Prim
