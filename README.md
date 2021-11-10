@@ -106,7 +106,8 @@ cạnh
   - 5.1 - Tổ chức thi công - Dự án phần mềm 1
   - 5.2 - Tổ chức thi công - Dự án phần mềm 2
 ### Buổi 5
-[Tài liệu TH](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_TH/Session5.1_C%C3%A2y%20khung%20t%E1%BB%91i%20thi%E1%BB%83u.pdf)
+[Tài liệu TH - Cây khung tối thiểu](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_TH/Session5.1_C%C3%A2y%20khung%20t%E1%BB%91i%20thi%E1%BB%83u.pdf)
+[Tài liệu TH - Luồng cực đại](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_TH/Session5.2_Lu%E1%BB%93ng%20c%E1%BB%B1c%20%C4%91%E1%BA%A1i.pdf)
 - Bài 5.1. Tìm cây khung bằng giải thuật Kruskal
 - Bài 5.2. tìm cây khung có trọng lượng nhỏ nhất bằng giải thuật Prim
 - Bài 5.3. Tìm luồng cực đại trong mạngTrắc nghiệm
