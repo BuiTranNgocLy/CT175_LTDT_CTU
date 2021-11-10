@@ -1,4 +1,4 @@
-# LÝ THUYẾT ĐỒ THỊ - GRAPH THEORY
+# LÝ THUYẾT ĐỒ THỊ-GRAPH THEORY
 ## Chương 1. Cơ bản
 ### 1.1 Các khái niệm cơ bản
 - Đồ thị vô hướng và có hướng
@@ -38,7 +38,8 @@ cạnh
 ### 5.1 Cây vô hướng
 - Cây và các tính chất của cây
 - Cây khung của đồ thị
-- `Thuật toán Kruskal` - cây khung tối thiểu_bài toán xây dựng 
+- `Thuật toán Kruskal` - cây khung tối thiểu_bài toán xây dựng
+- `Thuật toán Prim`
 ### 5.2 Cây có hướng
 - Cây và các tính chất của cây
 - `Thuật toán Chu-Liu/Edmonds` 
@@ -47,3 +48,42 @@ cạnh
 - Mạng, luồng và bài toán luồng cực đại
 - Định lý Ford-Fulkerson
 - `Thuật toán Ford-Fulkerson`
+
+## Thực hành
+### Buổi 1
+- Bài 1: Ma trận đỉnh cung(add_edge)
+- Bài 2 - Ma trận đỉnh - cung (neighbors)
+- Bài 3 - Ma trận đỉnh - đỉnh (degree)
+- Bài 4 - Bậc lớn nhất
+- Bài 5 - Danh sách cung
+- Bài 6 - Đọc đồ thị từ tập tin
+### Buổi 2
+- Bài 1 - Duyệt đồ thị
+- Bài 2 - Duyệt đồ thị & Dựng cây duyệt đồ thị
+- Bài 3 - Đồ thị liên thông - Qua đảo
+- Bài 4 - Tôn Ngộ Không
+- Bài 5 - Kiểm tra chu trình - đồ thị vô hướng
+- Bài 6 - Thuyền trưởng Haddock
+- Bài 7- Phân chia đội bóng
+- Bài 8 - Kiểm tra tính liên thông mạnh - đếm số BPLT mạnh
+- Bài 9 - Come and Go
+### Buổi 3
+- Bài 1 - Tìm đường đi ngắn nhất
+- Bài 2 - Tìm đường đi ngắn nhất (Check được)
+- Bài 3 - Kiểm tra chu trình âm và ứng dụng đường đi ngắn nhất
+- Bài 4 - Ứng dụng đường đi ngắn nhất
+- Bài 5 - Mê cung số (Number Maze)
+- Bài 6 - Bellman - Ford pi và pi
+- Bài 7 - Bellman - Ford
+- Bài 8 - Floyd - Warshall
+- Bài 9 - Tìm số đường đi ngắn nhất (nâng cao)
+### Buổi 4
+- Bài 1- Xếp hạng đồ thị
+- Bài 2 - Cân đá
+- Bài 3 - Chia kẹo
+- Bài 4 - Tổ chức thi công - Dự án xây nhà
+- Bài 5 - Tổ chức thi công - Dự án phần mềm
+### Buổi 5
+- Bài 5.1. Tìm cây khung bằng giải thuật Kruskal
+- Bài 5.2. tìm cây khung có trọng lượng nhỏ nhất bằng giải thuật Prim
+- Bài 5.3. Tìm luồng cực đại trong mạngTrắc nghiệm
