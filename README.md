@@ -59,7 +59,7 @@ cạnh
 - [Bài 1 - Ma trận đỉnh cung(add_edge)](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_1.c)
 - [Bài 2 - Ma trận đỉnh - cung (neighbors)](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_2.c)
 - [Bài 3 - Ma trận đỉnh - đỉnh (degree)](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_3.c)
-- [Bài 4 - Bậc lớn nhất]()
+- [Bài 4 - Bậc lớn nhất](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_4.c)
 - [Bài 5 - Danh sách cung]()
 - [Bài 6 - Đọc đồ thị từ tập tin]()
 ### Buổi 2
