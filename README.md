@@ -61,7 +61,7 @@ cạnh
 - [Bài 3 - Ma trận đỉnh - đỉnh (degree)](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_3.c)
 - [Bài 4 - Bậc lớn nhất](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_4.c)
 - [Bài 5 - Danh sách cung](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_5_1.c)
-- [Bài 5.2 - Danh sách cung có điều kiện]()
+- [Bài 5.2 - Danh sách cung có điều kiện](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_5_2.c)
 - [Bài 6 - Đọc đồ thị từ tập tin]()
 ### Buổi 2
 [Tài liệu TH](https://github.com/BuiTranNgocLy/CT175_LTDT_code_C/blob/main/Tai_Lieu_TH/Session2_T%C3%ADnh_Li%C3%AAn_Th%C3%B4ng.pdf)
