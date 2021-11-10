@@ -1,5 +1,6 @@
 # LÝ THUYẾT ĐỒ THỊ-GRAPH THEORY
 ## Chương 1. Cơ bản
+[Slide bài giảng](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_Li_Thuyet/Ch%C6%B0%C6%A1ng%201%20-%20C%C6%A1%20b%E1%BA%A3n%20v%C3%A8%20%C4%90%E1%BB%93%20th%E1%BB%8B.pdf)
 ### 1.1 Các khái niệm cơ bản
 - Đồ thị vô hướng và có hướng
 - Các thuật ngữ cơ bản
@@ -15,10 +16,12 @@ cạnh
 - Tìm kiếm theo chiều rộng - BFS
 
 ## Chương 2: Tính liên thông của đồ thị
+[Slide bài giảng](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_Li_Thuyet/Ch%C6%B0%C6%A1ng%202%20-%20T%C3%ADnh%20li%C3%AAn%20th%C3%B4ng%20c%E1%BB%A7a%20%C4%91%E1%BB%93%20th%E1%BB%8B.pdf)
 - Tìm đường đi và kiểm tra tính liên thông
 - `Thuật toán Tarjan` - tìm bộ phận liên thông mạnh
 
 ## Chương 3: TÌm đường đi ngắn nhất
+[Slide bài giảng](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_Li_Thuyet/Ch%C6%B0%C6%A1ng%203%20-%20T%C3%8Cm%20%C4%91%C6%B0%E1%BB%9Dng%20%C4%91i%20ng%E1%BA%AFn%20nh%E1%BA%A5t.pdf)
 - Biểu diễn Đồ thị có trọng số
 - Bài toán đường đi ngắn nhất
 - Phát biểu bài toán
@@ -29,6 +32,7 @@ cạnh
 - Đường đi ngắn nhất giữa mọi cặp đỉnh (Thuật toán Floyd)
 
 ## Chương 4: Xếp hạng đồ thị & Tổ chức thi công
+[Slide bài giảng](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_Li_Thuyet/Ch%C6%B0%C6%A1ng%204%20X%E1%BA%BFp%20h%E1%BA%A1ng%20%C4%91%E1%BB%93%20th%E1%BB%8B%20.pdf)
 - Xếp hạng các đỉnh đồ thị
    - Đồ thị có hướng không chu trình (DAG)
    - Giải thuật xếp hạng đồ thị
@@ -36,24 +40,27 @@ cạnh
 
 ## Chương 5. Cây và cây khung của đồ thị
 ### 5.1 Cây vô hướng
+[Slide bài giảng](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_Li_Thuyet/Ch%C6%B0%C6%A1ng%205%20-%20C%C3%A2y%20khung%20t%E1%BB%91i%20thi%E1%BB%83u%20-%20C%C3%A2y%20v%C3%B4%20h%C6%B0%E1%BB%9Bng.pdf)
 - Cây và các tính chất của cây
 - Cây khung của đồ thị
 - `Thuật toán Kruskal` - cây khung tối thiểu_bài toán xây dựng
 - `Thuật toán Prim`
 ### 5.2 Cây có hướng
+[Slide bài giảng](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_Li_Thuyet/Ch%C6%B0%C6%A1ng%206%20-%20C%C3%A2y%20khung%20t%E1%BB%91i%20thi%E1%BB%83u%20-%20C%C3%A2y%20c%C3%B3%20h%C6%B0%E1%BB%9Bng.pdf)
 - Cây và các tính chất của cây
 - `Thuật toán Chu-Liu/Edmonds` 
 
 ## Chương 6. Bài toán luồng cực đại trong mạng
+[SLide bài giảng](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_Li_Thuyet/Ch%C6%B0%C6%A1ng%206%20-%20C%C3%A2y%20khung%20t%E1%BB%91i%20thi%E1%BB%83u%20-%20C%C3%A2y%20c%C3%B3%20h%C6%B0%E1%BB%9Bng.pdf)
 - Mạng, luồng và bài toán luồng cực đại
 - Định lý Ford-Fulkerson
 - `Thuật toán Ford-Fulkerson`
 
 ## Thực hành
 ### Cấu trúc quan trọng khi thực hành
-- [Danh sách - List]()
-- [Hàng đợi - Queue]()
-- [Ngăn xếp - Stack]()
+- [Danh sách - List](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc%20Hanh/List.c)
+- [Hàng đợi - Queue](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc%20Hanh/Queue.c)
+- [Ngăn xếp - Stack](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc%20Hanh/Stack.c)
 ### Buổi 1
 [Tài liệu TH](https://github.com/BuiTranNgocLy/CT175_LTDT_code_C/blob/main/Tai_Lieu_TH/Session1_Bi%E1%BB%83u_Di%E1%BB%85n_Graph.pdf)
 - [Bài 1 - Ma trận đỉnh cung(add_edge)](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_1.c)
