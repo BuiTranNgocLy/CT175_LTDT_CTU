@@ -3,7 +3,7 @@
 [Slide bài giảng](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_Li_Thuyet/Ch%C6%B0%C6%A1ng%201%20-%20C%C6%A1%20b%E1%BA%A3n%20v%C3%A8%20%C4%90%E1%BB%93%20th%E1%BB%8B.pdf)
 ### 1.1 Các khái niệm cơ bản
 - [Các khái niệm cơ bản](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201:%20Co%20ban.md#1-c%C3%A1c-kh%C3%A1i-ni%E1%BB%87m-c%C6%A1-b%E1%BA%A3n)
-- Các thuật ngữ cơ bản
+- [Các loại đồ thị](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201:%20Co%20ban.md#2-c%C3%A1c-lo%E1%BA%A1i-%C4%91%E1%BB%93-th%E1%BB%8B)
 - Một số dạng đồ thị vô hướng đặc biệt
 
 ### 1.2 Biểu diễn đồ thị
