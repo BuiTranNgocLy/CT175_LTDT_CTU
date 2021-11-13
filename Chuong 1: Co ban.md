@@ -87,3 +87,18 @@
 # 4. Đồ thị vô hướng nền
 - `Đồ thị vô hướng nền của một đồ thị có hướng` là `đồ thị vô hướng` có được sau khi đã loại `bỏ hướng của các cạnh.`
 - Đồ thị có hướng và đồ thị vô hướng nền của nó có cùng số cạnh
+
+# 5. Đồ thị con
+- `Đồ thị G = <V, E>`
+- `Đồ thị con Gs = <V, Es>`, Es thuộc E. Được xây dựng từ G:
+   - là đồ thị `sau khi loại bỏ các cung không thuộc Es.`
+   - loại `bỏ các đỉnh không nằm trong Vs và các cung liên thuộc với nó, cùng với các cung không nằm trong Es.`
+
+# 6. Sự đẳng cấu của đồ thị
+- 2 đồ thị `1 = <V1, E1> và G2 = <V2, E2>`được gọi là `đẳng cấu` nếu và chỉ nếu `tồn tại song ánh:`
+   -  f từ V1 lên V2 sao cho a và b là các đỉnh liền kề trong G1
+   -  f(a) và f(b) là liền kề trong G2 , với mọi a và b trong V1.
+- Xác định 2 đồ thị có đẳng cấu hay không:
+   - cùng số đỉnh
+   - cùng số cạnh
+   - Bậc của các đỉnh tương ứng phải như nhau.
