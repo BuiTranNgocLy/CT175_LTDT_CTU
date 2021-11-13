@@ -64,7 +64,7 @@
 
 ![image](https://user-images.githubusercontent.com/88178841/141644877-98930c19-a073-4d5d-8e36-a0d64a3d3074.png)
 
-# 3. Đồ thị đặc biệt
+# 3. Một số đồ thị vô hướng đặc biệt
 ## Đồ thị đầy đủ (complete graph)
 - Kí hiệu: `Kn`
 - `Đơn đồ thị vô hướng`
@@ -84,3 +84,6 @@
 
 ![image](https://user-images.githubusercontent.com/88178841/141645660-6fbfedcc-c2fa-4aea-9cec-e0026bea904c.png)
 
+# 4. Đồ thị vô hướng nền
+- `Đồ thị vô hướng nền của một đồ thị có hướng` là `đồ thị vô hướng` có được sau khi đã loại `bỏ hướng của các cạnh.`
+- Đồ thị có hướng và đồ thị vô hướng nền của nó có cùng số cạnh
