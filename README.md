@@ -6,7 +6,8 @@
 - [Các loại đồ thị](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201:%20Co%20ban.md#2-c%C3%A1c-lo%E1%BA%A1i-%C4%91%E1%BB%93-th%E1%BB%8B)
 - [Một số dạng đồ thị vô hướng đặc biệt](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201:%20Co%20ban.md#3-m%E1%BB%99t-s%E1%BB%91-%C4%91%E1%BB%93-th%E1%BB%8B-v%C3%B4-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BA%B7c-bi%E1%BB%87t)
 - [Đồ thị vô hướng nền](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201:%20Co%20ban.md#4-%C4%91%E1%BB%93-th%E1%BB%8B-v%C3%B4-h%C6%B0%E1%BB%9Bng-n%E1%BB%81n)
-
+- [Đồ thị cọn](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201:%20Co%20ban.md#5-%C4%91%E1%BB%93-th%E1%BB%8B-con)
+- [Sự đẳng cấu của đồ ](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201:%20Co%20ban.md#6-s%E1%BB%B1-%C4%91%E1%BA%B3ng-c%E1%BA%A5u-c%E1%BB%A7a-%C4%91%E1%BB%93-th%E1%BB%8B)
 ### 1.2 Biểu diễn đồ thị
 - Ma trận kề, ma trận trọng số, Ma trận liên thuộc đỉnh
 cạnh
