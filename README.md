@@ -3,11 +3,11 @@
 [Slide bài giảng](https://bitly.com.vn/e6c4b7)
 ### 1.1 Các khái niệm cơ bản
 - [Các khái niệm cơ bản](https://bitly.com.vn/2z7zh6)
-- [Các loại đồ thị](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201_P1_Co%20ban.md#2-c%C3%A1c-lo%E1%BA%A1i-%C4%91%E1%BB%93-th%E1%BB%8B)
-- [Một số dạng đồ thị vô hướng đặc biệt](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201:%20Co%20ban.md#3-m%E1%BB%99t-s%E1%BB%91-%C4%91%E1%BB%93-th%E1%BB%8B-v%C3%B4-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BA%B7c-bi%E1%BB%87t)
-- [Đồ thị vô hướng nền](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201:%20Co%20ban.md#4-%C4%91%E1%BB%93-th%E1%BB%8B-v%C3%B4-h%C6%B0%E1%BB%9Bng-n%E1%BB%81n)
-- [Đồ thị con](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201:%20Co%20ban.md#5-%C4%91%E1%BB%93-th%E1%BB%8B-con)
-- [Sự đẳng cấu của đồ ](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201:%20Co%20ban.md#6-s%E1%BB%B1-%C4%91%E1%BA%B3ng-c%E1%BA%A5u-c%E1%BB%A7a-%C4%91%E1%BB%93-th%E1%BB%8B)
+- [Các loại đồ thị](https://bitly.com.vn/t09d61)
+- [Một số dạng đồ thị vô hướng đặc biệt](https://bitly.com.vn/xr4q0f)
+- [Đồ thị vô hướng nền](https://bitly.com.vn/v5qpzl)
+- [Đồ thị con](https://bitly.com.vn/7f4s3d)
+- [Sự đẳng cấu của đồ ](https://bitly.com.vn/5zvjfp)
 ### 1.2 Biểu diễn đồ thị
 - Ma trận kề, ma trận trọng số, Ma trận liên thuộc đỉnh
 cạnh
@@ -18,12 +18,12 @@ cạnh
 - Tìm kiếm theo chiều rộng - BFS
 
 ## Chương 2: Tính liên thông của đồ thị
-[Slide bài giảng](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_Li_Thuyet/Ch%C6%B0%C6%A1ng%202%20-%20T%C3%ADnh%20li%C3%AAn%20th%C3%B4ng%20c%E1%BB%A7a%20%C4%91%E1%BB%93%20th%E1%BB%8B.pdf)
+[Slide bài giảng](https://bitly.com.vn/wtaxin)
 - Tìm đường đi và kiểm tra tính liên thông
 - `Thuật toán Tarjan` - tìm bộ phận liên thông mạnh
 
 ## Chương 3: TÌm đường đi ngắn nhất
-[Slide bài giảng](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_Li_Thuyet/Ch%C6%B0%C6%A1ng%203%20-%20T%C3%8Cm%20%C4%91%C6%B0%E1%BB%9Dng%20%C4%91i%20ng%E1%BA%AFn%20nh%E1%BA%A5t.pdf)
+[Slide bài giảng](https://bitly.com.vn/zrpcn4)
 - Biểu diễn Đồ thị có trọng số
 - Bài toán đường đi ngắn nhất
 - Phát biểu bài toán
@@ -34,7 +34,7 @@ cạnh
 - Đường đi ngắn nhất giữa mọi cặp đỉnh (Thuật toán Floyd)
 
 ## Chương 4: Xếp hạng đồ thị & Tổ chức thi công
-[Slide bài giảng](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_Li_Thuyet/Ch%C6%B0%C6%A1ng%204%20X%E1%BA%BFp%20h%E1%BA%A1ng%20%C4%91%E1%BB%93%20th%E1%BB%8B%20.pdf)
+[Slide bài giảng](https://bitly.com.vn/9jbcwc)
 - Xếp hạng các đỉnh đồ thị
    - Đồ thị có hướng không chu trình (DAG)
    - Giải thuật xếp hạng đồ thị
@@ -42,34 +42,34 @@ cạnh
 
 ## Chương 5. Cây và cây khung của đồ thị
 ### 5.1 Cây vô hướng
-[Slide bài giảng](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_Li_Thuyet/Ch%C6%B0%C6%A1ng%205%20-%20C%C3%A2y%20khung%20t%E1%BB%91i%20thi%E1%BB%83u%20-%20C%C3%A2y%20v%C3%B4%20h%C6%B0%E1%BB%9Bng.pdf)
+[Slide bài giảng](https://bitly.com.vn/x2sxx4)
 - Cây và các tính chất của cây
 - Cây khung của đồ thị
 - `Thuật toán Kruskal` - cây khung tối thiểu_bài toán xây dựng
 - `Thuật toán Prim`
 ### 5.2 Cây có hướng
-[Slide bài giảng](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_Li_Thuyet/Ch%C6%B0%C6%A1ng%206%20-%20C%C3%A2y%20khung%20t%E1%BB%91i%20thi%E1%BB%83u%20-%20C%C3%A2y%20c%C3%B3%20h%C6%B0%E1%BB%9Bng.pdf)
+[Slide bài giảng](https://bitly.com.vn/g207au)
 - Cây và các tính chất của cây
 - `Thuật toán Chu-Liu/Edmonds` 
 
 ## Chương 6. Bài toán luồng cực đại trong mạng
-[SLide bài giảng](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_Li_Thuyet/Ch%C6%B0%C6%A1ng%206%20-%20C%C3%A2y%20khung%20t%E1%BB%91i%20thi%E1%BB%83u%20-%20C%C3%A2y%20c%C3%B3%20h%C6%B0%E1%BB%9Bng.pdf)
+[SLide bài giảng](https://bitly.com.vn/qt38aw)
 - Mạng, luồng và bài toán luồng cực đại
 - Định lý Ford-Fulkerson
 - `Thuật toán Ford-Fulkerson`
 
 ## Thực hành
 ### Cấu trúc quan trọng khi thực hành
-- [Danh sách - List](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc%20Hanh/List.c)
-- [Hàng đợi - Queue](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc%20Hanh/Queue.c)
-- [Ngăn xếp - Stack](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc%20Hanh/Stack.c)
+- [Danh sách - List](https://bitly.com.vn/eho8yn)
+- [Hàng đợi - Queue](https://bitly.com.vn/5gtar8)
+- [Ngăn xếp - Stack](https://bitly.com.vn/ag5d8g)
 ### Buổi 1
-[Tài liệu TH](https://github.com/BuiTranNgocLy/CT175_LTDT_code_C/blob/main/Tai_Lieu_TH/Session1_Bi%E1%BB%83u_Di%E1%BB%85n_Graph.pdf)
-- [Bài 1 - Ma trận đỉnh cung(add_edge)](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_1.c)
-- [Bài 2 - Ma trận đỉnh - cung (neighbors)](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_2.c)
-- [Bài 3 - Ma trận đỉnh - đỉnh (degree)](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_3.c)
-- [Bài 4 - Bậc lớn nhất](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_4.c)
-- [Bài 5 - Danh sách cung](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_5_1.c)
+[Tài liệu TH](https://bitly.com.vn/wwn26n)
+- [Bài 1 - Ma trận đỉnh cung(add_edge)](https://bitly.com.vn/jmkwoh)
+- [Bài 2 - Ma trận đỉnh - cung (neighbors)](https://bitly.com.vn/v9biyb)
+- [Bài 3 - Ma trận đỉnh - đỉnh (degree)](https://bitly.com.vn/lf98q3)
+- [Bài 4 - Bậc lớn nhất](https://bitly.com.vn/t0p56z)
+- [Bài 5 - Danh sách cung](https://bitly.com.vn/wlfu62)
 - [Bài 5.2 - Danh sách cung có điều kiện](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_5_2.c)
 - [Bài 6 - Đọc đồ thị từ tập tin](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Thuc_Hanh_Else/Buoi_01/Bai_6.c)
 ### Buổi 2
