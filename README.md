@@ -2,7 +2,7 @@
 ## Chương 1. Cơ bản
 [Slide bài giảng](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Tai_Lieu_Li_Thuyet/Ch%C6%B0%C6%A1ng%201%20-%20C%C6%A1%20b%E1%BA%A3n%20v%C3%A8%20%C4%90%E1%BB%93%20th%E1%BB%8B.pdf)
 ### 1.1 Các khái niệm cơ bản
-- [Các khái niệm cơ bản](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201:%20Co%20ban.md#1-c%C3%A1c-kh%C3%A1i-ni%E1%BB%87m-c%C6%A1-b%E1%BA%A3n)
+- [Các khái niệm cơ bản](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201_P1_Co%20ban.md#1-c%C3%A1c-kh%C3%A1i-ni%E1%BB%87m-c%C6%A1-b%E1%BA%A3n)
 - [Các loại đồ thị](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201:%20Co%20ban.md#2-c%C3%A1c-lo%E1%BA%A1i-%C4%91%E1%BB%93-th%E1%BB%8B)
 - [Một số dạng đồ thị vô hướng đặc biệt](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201:%20Co%20ban.md#3-m%E1%BB%99t-s%E1%BB%91-%C4%91%E1%BB%93-th%E1%BB%8B-v%C3%B4-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BA%B7c-bi%E1%BB%87t)
 - [Đồ thị vô hướng nền](https://github.com/BuiTranNgocLy/CT175_LTDT_CTU/blob/main/Chuong%201:%20Co%20ban.md#4-%C4%91%E1%BB%93-th%E1%BB%8B-v%C3%B4-h%C6%B0%E1%BB%9Bng-n%E1%BB%81n)
