@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/88178841/148009642-e64ec225-b74c-4cff-9fbc-3bf33fcf7fa0.png)
+
 # LÝ THUYẾT ĐỒ THỊ-GRAPH THEORY
 ## Chương 1. Cơ bản
 [Slide bài giảng](https://bitly.com.vn/e6c4b7)
